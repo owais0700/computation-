@@ -1,0 +1,301 @@
+Year,Month,Place,Tourist_Count,Weather,Festival,Holiday_Flag
+2020,Jan,Srinagar,5852,Snowy,New Year,1
+2020,Jan,Gulmarg,13018,Snowy,New Year,1
+2020,Jan,Pahalgam,10457,Snowy,New Year,1
+2020,Jan,Sonmarg,10901,Snowy,New Year,1
+2020,Jan,Jammu,20582,Snowy,New Year,1
+2020,Feb,Srinagar,24805,Cold,Shivratri,1
+2020,Feb,Gulmarg,3285,Cold,Shivratri,1
+2020,Feb,Pahalgam,6861,Cold,Shivratri,1
+2020,Feb,Sonmarg,13762,Cold,Shivratri,1
+2020,Feb,Jammu,21943,Cold,Shivratri,1
+2020,Mar,Srinagar,101,Chilly,Holi,1
+2020,Mar,Gulmarg,214,Chilly,Holi,1
+2020,Mar,Pahalgam,229,Chilly,Holi,1
+2020,Mar,Sonmarg,142,Chilly,Holi,1
+2020,Mar,Jammu,388,Chilly,Holi,1
+2020,Apr,Srinagar,357,Mild,Baisakhi,1
+2020,Apr,Gulmarg,174,Mild,Baisakhi,1
+2020,Apr,Pahalgam,79,Mild,Baisakhi,1
+2020,Apr,Sonmarg,490,Mild,Baisakhi,1
+2020,Apr,Jammu,52,Mild,Baisakhi,1
+2020,May,Srinagar,194,Pleasant,,0
+2020,May,Gulmarg,183,Pleasant,,0
+2020,May,Pahalgam,309,Pleasant,,0
+2020,May,Sonmarg,413,Pleasant,,0
+2020,May,Jammu,373,Pleasant,,0
+2020,Jun,Srinagar,274,Warm,,0
+2020,Jun,Gulmarg,498,Warm,,0
+2020,Jun,Pahalgam,40,Warm,,0
+2020,Jun,Sonmarg,150,Warm,,0
+2020,Jun,Jammu,295,Warm,,0
+2020,Jul,Srinagar,14071,Hot,,0
+2020,Jul,Gulmarg,4654,Hot,,0
+2020,Jul,Pahalgam,11837,Hot,,0
+2020,Jul,Sonmarg,6521,Hot,,0
+2020,Jul,Jammu,8422,Hot,,0
+2020,Aug,Srinagar,14822,Rainy,Independence Day,1
+2020,Aug,Gulmarg,15286,Rainy,Independence Day,1
+2020,Aug,Pahalgam,17040,Rainy,Independence Day,1
+2020,Aug,Sonmarg,14355,Rainy,Independence Day,1
+2020,Aug,Jammu,16497,Rainy,Independence Day,1
+2020,Sep,Srinagar,9329,Pleasant,Eid,1
+2020,Sep,Gulmarg,11982,Pleasant,Eid,1
+2020,Sep,Pahalgam,11359,Pleasant,Eid,1
+2020,Sep,Sonmarg,20255,Pleasant,Eid,1
+2020,Sep,Jammu,16087,Pleasant,Eid,1
+2020,Oct,Srinagar,22049,Cool,Navratri,1
+2020,Oct,Gulmarg,13084,Cool,Navratri,1
+2020,Oct,Pahalgam,9767,Cool,Navratri,1
+2020,Oct,Sonmarg,15622,Cool,Navratri,1
+2020,Oct,Jammu,11315,Cool,Navratri,1
+2020,Nov,Srinagar,13559,Cold,Diwali,1
+2020,Nov,Gulmarg,14052,Cold,Diwali,1
+2020,Nov,Pahalgam,21599,Cold,Diwali,1
+2020,Nov,Sonmarg,18205,Cold,Diwali,1
+2020,Nov,Jammu,11822,Cold,Diwali,1
+2020,Dec,Srinagar,14679,Snowy,Christmas,1
+2020,Dec,Gulmarg,21813,Snowy,Christmas,1
+2020,Dec,Pahalgam,24664,Snowy,Christmas,1
+2020,Dec,Sonmarg,24392,Snowy,Christmas,1
+2020,Dec,Jammu,15657,Snowy,Christmas,1
+2021,Jan,Srinagar,10706,Snowy,New Year,1
+2021,Jan,Gulmarg,18915,Snowy,New Year,1
+2021,Jan,Pahalgam,4441,Snowy,New Year,1
+2021,Jan,Sonmarg,12148,Snowy,New Year,1
+2021,Jan,Jammu,12816,Snowy,New Year,1
+2021,Feb,Srinagar,20718,Cold,Shivratri,1
+2021,Feb,Gulmarg,7233,Cold,Shivratri,1
+2021,Feb,Pahalgam,19385,Cold,Shivratri,1
+2021,Feb,Sonmarg,21671,Cold,Shivratri,1
+2021,Feb,Jammu,14770,Cold,Shivratri,1
+2021,Mar,Srinagar,7948,Chilly,Holi,1
+2021,Mar,Gulmarg,11337,Chilly,Holi,1
+2021,Mar,Pahalgam,21780,Chilly,Holi,1
+2021,Mar,Sonmarg,14059,Chilly,Holi,1
+2021,Mar,Jammu,15178,Chilly,Holi,1
+2021,Apr,Srinagar,10898,Mild,Baisakhi,1
+2021,Apr,Gulmarg,8021,Mild,Baisakhi,1
+2021,Apr,Pahalgam,14730,Mild,Baisakhi,1
+2021,Apr,Sonmarg,12012,Mild,Baisakhi,1
+2021,Apr,Jammu,10608,Mild,Baisakhi,1
+2021,May,Srinagar,17013,Pleasant,,0
+2021,May,Gulmarg,23623,Pleasant,,0
+2021,May,Pahalgam,9769,Pleasant,,0
+2021,May,Sonmarg,15575,Pleasant,,0
+2021,May,Jammu,24018,Pleasant,,0
+2021,Jun,Srinagar,6924,Warm,,0
+2021,Jun,Gulmarg,16623,Warm,,0
+2021,Jun,Pahalgam,3554,Warm,,0
+2021,Jun,Sonmarg,16413,Warm,,0
+2021,Jun,Jammu,10320,Warm,,0
+2021,Jul,Srinagar,14539,Hot,,0
+2021,Jul,Gulmarg,5281,Hot,,0
+2021,Jul,Pahalgam,18490,Hot,,0
+2021,Jul,Sonmarg,20485,Hot,,0
+2021,Jul,Jammu,11611,Hot,,0
+2021,Aug,Srinagar,22077,Rainy,Independence Day,1
+2021,Aug,Gulmarg,9581,Rainy,Independence Day,1
+2021,Aug,Pahalgam,24259,Rainy,Independence Day,1
+2021,Aug,Sonmarg,17600,Rainy,Independence Day,1
+2021,Aug,Jammu,25650,Rainy,Independence Day,1
+2021,Sep,Srinagar,14431,Pleasant,Eid,1
+2021,Sep,Gulmarg,15482,Pleasant,Eid,1
+2021,Sep,Pahalgam,17824,Pleasant,Eid,1
+2021,Sep,Sonmarg,22657,Pleasant,Eid,1
+2021,Sep,Jammu,7995,Pleasant,Eid,1
+2021,Oct,Srinagar,9886,Cool,Navratri,1
+2021,Oct,Gulmarg,13250,Cool,Navratri,1
+2021,Oct,Pahalgam,25814,Cool,Navratri,1
+2021,Oct,Sonmarg,14360,Cool,Navratri,1
+2021,Oct,Jammu,9274,Cool,Navratri,1
+2021,Nov,Srinagar,10124,Cold,Diwali,1
+2021,Nov,Gulmarg,5804,Cold,Diwali,1
+2021,Nov,Pahalgam,4465,Cold,Diwali,1
+2021,Nov,Sonmarg,13407,Cold,Diwali,1
+2021,Nov,Jammu,20796,Cold,Diwali,1
+2021,Dec,Srinagar,16605,Snowy,Christmas,1
+2021,Dec,Gulmarg,19661,Snowy,Christmas,1
+2021,Dec,Pahalgam,20752,Snowy,Christmas,1
+2021,Dec,Sonmarg,25431,Snowy,Christmas,1
+2021,Dec,Jammu,19478,Snowy,Christmas,1
+2022,Jan,Srinagar,20832,Snowy,New Year,1
+2022,Jan,Gulmarg,9011,Snowy,New Year,1
+2022,Jan,Pahalgam,10574,Snowy,New Year,1
+2022,Jan,Sonmarg,19026,Snowy,New Year,1
+2022,Jan,Jammu,19246,Snowy,New Year,1
+2022,Feb,Srinagar,23275,Cold,Shivratri,1
+2022,Feb,Gulmarg,9291,Cold,Shivratri,1
+2022,Feb,Pahalgam,5720,Cold,Shivratri,1
+2022,Feb,Sonmarg,21158,Cold,Shivratri,1
+2022,Feb,Jammu,14013,Cold,Shivratri,1
+2022,Mar,Srinagar,11716,Chilly,Holi,1
+2022,Mar,Gulmarg,12625,Chilly,Holi,1
+2022,Mar,Pahalgam,17848,Chilly,Holi,1
+2022,Mar,Sonmarg,17327,Chilly,Holi,1
+2022,Mar,Jammu,14916,Chilly,Holi,1
+2022,Apr,Srinagar,10802,Mild,Baisakhi,1
+2022,Apr,Gulmarg,21028,Mild,Baisakhi,1
+2022,Apr,Pahalgam,5622,Mild,Baisakhi,1
+2022,Apr,Sonmarg,19833,Mild,Baisakhi,1
+2022,Apr,Jammu,6992,Mild,Baisakhi,1
+2022,May,Srinagar,10778,Pleasant,,0
+2022,May,Gulmarg,21856,Pleasant,,0
+2022,May,Pahalgam,12289,Pleasant,,0
+2022,May,Sonmarg,5269,Pleasant,,0
+2022,May,Jammu,14435,Pleasant,,0
+2022,Jun,Srinagar,16965,Warm,,0
+2022,Jun,Gulmarg,19245,Warm,,0
+2022,Jun,Pahalgam,21567,Warm,,0
+2022,Jun,Sonmarg,25633,Warm,,0
+2022,Jun,Jammu,19215,Warm,,0
+2022,Jul,Srinagar,10652,Hot,,0
+2022,Jul,Gulmarg,9612,Hot,,0
+2022,Jul,Pahalgam,25419,Hot,,0
+2022,Jul,Sonmarg,6566,Hot,,0
+2022,Jul,Jammu,4283,Hot,,0
+2022,Aug,Srinagar,25047,Rainy,Independence Day,1
+2022,Aug,Gulmarg,22827,Rainy,Independence Day,1
+2022,Aug,Pahalgam,7623,Rainy,Independence Day,1
+2022,Aug,Sonmarg,19296,Rainy,Independence Day,1
+2022,Aug,Jammu,8650,Rainy,Independence Day,1
+2022,Sep,Srinagar,22054,Pleasant,Eid,1
+2022,Sep,Gulmarg,13014,Pleasant,Eid,1
+2022,Sep,Pahalgam,10594,Pleasant,Eid,1
+2022,Sep,Sonmarg,14809,Pleasant,Eid,1
+2022,Sep,Jammu,21806,Pleasant,Eid,1
+2022,Oct,Srinagar,8120,Cool,Navratri,1
+2022,Oct,Gulmarg,25755,Cool,Navratri,1
+2022,Oct,Pahalgam,21721,Cool,Navratri,1
+2022,Oct,Sonmarg,12217,Cool,Navratri,1
+2022,Oct,Jammu,14250,Cool,Navratri,1
+2022,Nov,Srinagar,13945,Cold,Diwali,1
+2022,Nov,Gulmarg,11790,Cold,Diwali,1
+2022,Nov,Pahalgam,15575,Cold,Diwali,1
+2022,Nov,Sonmarg,12954,Cold,Diwali,1
+2022,Nov,Jammu,6059,Cold,Diwali,1
+2022,Dec,Srinagar,21267,Snowy,Christmas,1
+2022,Dec,Gulmarg,8804,Snowy,Christmas,1
+2022,Dec,Pahalgam,13128,Snowy,Christmas,1
+2022,Dec,Sonmarg,11775,Snowy,Christmas,1
+2022,Dec,Jammu,13999,Snowy,Christmas,1
+2023,Jan,Srinagar,13031,Snowy,New Year,1
+2023,Jan,Gulmarg,12630,Snowy,New Year,1
+2023,Jan,Pahalgam,20808,Snowy,New Year,1
+2023,Jan,Sonmarg,16922,Snowy,New Year,1
+2023,Jan,Jammu,19396,Snowy,New Year,1
+2023,Feb,Srinagar,22625,Cold,Shivratri,1
+2023,Feb,Gulmarg,6494,Cold,Shivratri,1
+2023,Feb,Pahalgam,11611,Cold,Shivratri,1
+2023,Feb,Sonmarg,10039,Cold,Shivratri,1
+2023,Feb,Jammu,9324,Cold,Shivratri,1
+2023,Mar,Srinagar,16186,Chilly,Holi,1
+2023,Mar,Gulmarg,14779,Chilly,Holi,1
+2023,Mar,Pahalgam,14902,Chilly,Holi,1
+2023,Mar,Sonmarg,14790,Chilly,Holi,1
+2023,Mar,Jammu,20065,Chilly,Holi,1
+2023,Apr,Srinagar,4420,Mild,Baisakhi,1
+2023,Apr,Gulmarg,18145,Mild,Baisakhi,1
+2023,Apr,Pahalgam,3473,Mild,Baisakhi,1
+2023,Apr,Sonmarg,14000,Mild,Baisakhi,1
+2023,Apr,Jammu,11906,Mild,Baisakhi,1
+2023,May,Srinagar,20997,Pleasant,,0
+2023,May,Gulmarg,20608,Pleasant,,0
+2023,May,Pahalgam,3232,Pleasant,,0
+2023,May,Sonmarg,10125,Pleasant,,0
+2023,May,Jammu,11353,Pleasant,,0
+2023,Jun,Srinagar,6204,Warm,,0
+2023,Jun,Gulmarg,25613,Warm,,0
+2023,Jun,Pahalgam,10372,Warm,,0
+2023,Jun,Sonmarg,6518,Warm,,0
+2023,Jun,Jammu,15088,Warm,,0
+2023,Jul,Srinagar,6238,Hot,,0
+2023,Jul,Gulmarg,14470,Hot,,0
+2023,Jul,Pahalgam,15639,Hot,,0
+2023,Jul,Sonmarg,8265,Hot,,0
+2023,Jul,Jammu,23675,Hot,,0
+2023,Aug,Srinagar,9003,Rainy,Independence Day,1
+2023,Aug,Gulmarg,8774,Rainy,Independence Day,1
+2023,Aug,Pahalgam,15713,Rainy,Independence Day,1
+2023,Aug,Sonmarg,10598,Rainy,Independence Day,1
+2023,Aug,Jammu,20978,Rainy,Independence Day,1
+2023,Sep,Srinagar,12316,Pleasant,Eid,1
+2023,Sep,Gulmarg,12960,Pleasant,Eid,1
+2023,Sep,Pahalgam,8675,Pleasant,Eid,1
+2023,Sep,Sonmarg,7123,Pleasant,Eid,1
+2023,Sep,Jammu,10922,Pleasant,Eid,1
+2023,Oct,Srinagar,19947,Cool,Navratri,1
+2023,Oct,Gulmarg,13864,Cool,Navratri,1
+2023,Oct,Pahalgam,9497,Cool,Navratri,1
+2023,Oct,Sonmarg,11592,Cool,Navratri,1
+2023,Oct,Jammu,15038,Cool,Navratri,1
+2023,Nov,Srinagar,6560,Cold,Diwali,1
+2023,Nov,Gulmarg,18761,Cold,Diwali,1
+2023,Nov,Pahalgam,21966,Cold,Diwali,1
+2023,Nov,Sonmarg,22282,Cold,Diwali,1
+2023,Nov,Jammu,3848,Cold,Diwali,1
+2023,Dec,Srinagar,12021,Snowy,Christmas,1
+2023,Dec,Gulmarg,23198,Snowy,Christmas,1
+2023,Dec,Pahalgam,4141,Snowy,Christmas,1
+2023,Dec,Sonmarg,25107,Snowy,Christmas,1
+2023,Dec,Jammu,19295,Snowy,Christmas,1
+2024,Jan,Srinagar,15852,Snowy,New Year,1
+2024,Jan,Gulmarg,26053,Snowy,New Year,1
+2024,Jan,Pahalgam,8944,Snowy,New Year,1
+2024,Jan,Sonmarg,22450,Snowy,New Year,1
+2024,Jan,Jammu,10709,Snowy,New Year,1
+2024,Feb,Srinagar,16301,Cold,Shivratri,1
+2024,Feb,Gulmarg,23446,Cold,Shivratri,1
+2024,Feb,Pahalgam,11439,Cold,Shivratri,1
+2024,Feb,Sonmarg,16705,Cold,Shivratri,1
+2024,Feb,Jammu,17923,Cold,Shivratri,1
+2024,Mar,Srinagar,17720,Chilly,Holi,1
+2024,Mar,Gulmarg,11979,Chilly,Holi,1
+2024,Mar,Pahalgam,15994,Chilly,Holi,1
+2024,Mar,Sonmarg,17597,Chilly,Holi,1
+2024,Mar,Jammu,18054,Chilly,Holi,1
+2024,Apr,Srinagar,20896,Mild,Baisakhi,1
+2024,Apr,Gulmarg,16229,Mild,Baisakhi,1
+2024,Apr,Pahalgam,7741,Mild,Baisakhi,1
+2024,Apr,Sonmarg,21224,Mild,Baisakhi,1
+2024,Apr,Jammu,19971,Mild,Baisakhi,1
+2024,May,Srinagar,12744,Pleasant,,0
+2024,May,Gulmarg,23113,Pleasant,,0
+2024,May,Pahalgam,19794,Pleasant,,0
+2024,May,Sonmarg,4502,Pleasant,,0
+2024,May,Jammu,13122,Pleasant,,0
+2024,Jun,Srinagar,20837,Warm,,0
+2024,Jun,Gulmarg,27242,Warm,,0
+2024,Jun,Pahalgam,16368,Warm,,0
+2024,Jun,Sonmarg,20098,Warm,,0
+2024,Jun,Jammu,13189,Warm,,0
+2024,Jul,Srinagar,18895,Hot,,0
+2024,Jul,Gulmarg,7102,Hot,,0
+2024,Jul,Pahalgam,24328,Hot,,0
+2024,Jul,Sonmarg,13748,Hot,,0
+2024,Jul,Jammu,15207,Hot,,0
+2024,Aug,Srinagar,14011,Rainy,Independence Day,1
+2024,Aug,Gulmarg,9732,Rainy,Independence Day,1
+2024,Aug,Pahalgam,3178,Rainy,Independence Day,1
+2024,Aug,Sonmarg,13915,Rainy,Independence Day,1
+2024,Aug,Jammu,8116,Rainy,Independence Day,1
+2024,Sep,Srinagar,20739,Pleasant,Eid,1
+2024,Sep,Gulmarg,22455,Pleasant,Eid,1
+2024,Sep,Pahalgam,18631,Pleasant,Eid,1
+2024,Sep,Sonmarg,17093,Pleasant,Eid,1
+2024,Sep,Jammu,12209,Pleasant,Eid,1
+2024,Oct,Srinagar,3054,Cool,Navratri,1
+2024,Oct,Gulmarg,17723,Cool,Navratri,1
+2024,Oct,Pahalgam,13463,Cool,Navratri,1
+2024,Oct,Sonmarg,22777,Cool,Navratri,1
+2024,Oct,Jammu,8211,Cool,Navratri,1
+2024,Nov,Srinagar,11159,Cold,Diwali,1
+2024,Nov,Gulmarg,18049,Cold,Diwali,1
+2024,Nov,Pahalgam,22693,Cold,Diwali,1
+2024,Nov,Sonmarg,23982,Cold,Diwali,1
+2024,Nov,Jammu,24110,Cold,Diwali,1
+2024,Dec,Srinagar,21520,Snowy,Christmas,1
+2024,Dec,Gulmarg,22035,Snowy,Christmas,1
+2024,Dec,Pahalgam,23604,Snowy,Christmas,1
+2024,Dec,Sonmarg,11103,Snowy,Christmas,1
+2024,Dec,Jammu,18870,Snowy,Christmas,1

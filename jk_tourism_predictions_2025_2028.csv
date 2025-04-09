@@ -1,0 +1,241 @@
+Year,Month,Place,Weather,Festival,Holiday_Flag,Predicted_Tourist_Count
+2025,Apr,Srinagar,Pleasant,None,0,15374.8
+2025,Apr,Gulmarg,Cool,None,0,14763.3
+2025,Apr,Pahalgam,Hot,Diwali,1,14499.95
+2025,Apr,Sonmarg,Pleasant,New Year,1,14869.82
+2025,Apr,Jammu,Mild,Holi,1,14557.66
+2025,Aug,Srinagar,Warm,Baisakhi,1,18311.74
+2025,Aug,Gulmarg,Mild,New Year,1,14454.78
+2025,Aug,Pahalgam,Cold,Baisakhi,1,14702.18
+2025,Aug,Sonmarg,Pleasant,None,0,13327.43
+2025,Aug,Jammu,Pleasant,None,0,13720.39
+2025,Dec,Srinagar,Chilly,None,0,15539.88
+2025,Dec,Gulmarg,Pleasant,Navratri,1,16785.93
+2025,Dec,Pahalgam,Hot,Holi,1,13000.41
+2025,Dec,Sonmarg,Mild,Holi,1,15341.26
+2025,Dec,Jammu,Mild,Navratri,1,12571.32
+2025,Feb,Srinagar,Hot,Holi,1,17349.88
+2025,Feb,Gulmarg,Mild,Eid,1,17788.33
+2025,Feb,Pahalgam,Rainy,Christmas,1,16793.27
+2025,Feb,Sonmarg,Cool,New Year,1,17256.47
+2025,Feb,Jammu,Snowy,Holi,1,14770.87
+2025,Jan,Srinagar,Cold,Baisakhi,1,17108.55
+2025,Jan,Gulmarg,Warm,Christmas,1,22994.13
+2025,Jan,Pahalgam,Rainy,New Year,1,10814.04
+2025,Jan,Sonmarg,Rainy,None,0,15846.02
+2025,Jan,Jammu,Chilly,Shivratri,1,16139.23
+2025,Jul,Srinagar,Snowy,Baisakhi,1,18496.0
+2025,Jul,Gulmarg,Mild,Shivratri,1,16091.32
+2025,Jul,Pahalgam,Rainy,None,0,15995.14
+2025,Jul,Sonmarg,Hot,New Year,1,17070.95
+2025,Jul,Jammu,Cold,Christmas,1,19861.63
+2025,Jun,Srinagar,Hot,None,0,16113.88
+2025,Jun,Gulmarg,Chilly,New Year,1,15103.13
+2025,Jun,Pahalgam,Warm,Eid,1,17786.6
+2025,Jun,Sonmarg,Rainy,Diwali,1,17213.09
+2025,Jun,Jammu,Pleasant,None,0,14419.35
+2025,Mar,Srinagar,Pleasant,Independence Day,1,16172.75
+2025,Mar,Gulmarg,Pleasant,Holi,1,18273.99
+2025,Mar,Pahalgam,Chilly,Independence Day,1,16121.14
+2025,Mar,Sonmarg,Snowy,Independence Day,1,18206.45
+2025,Mar,Jammu,Rainy,Christmas,1,17571.78
+2025,May,Srinagar,Pleasant,Diwali,1,17655.85
+2025,May,Gulmarg,Chilly,Holi,1,15040.89
+2025,May,Pahalgam,Hot,Baisakhi,1,17715.21
+2025,May,Sonmarg,Mild,Holi,1,16797.92
+2025,May,Jammu,Warm,Diwali,1,18053.01
+2025,Nov,Srinagar,Pleasant,New Year,1,13406.85
+2025,Nov,Gulmarg,Cold,None,0,16613.87
+2025,Nov,Pahalgam,Mild,Holi,1,17394.13
+2025,Nov,Sonmarg,Chilly,Independence Day,1,18143.82
+2025,Nov,Jammu,Mild,Christmas,1,18260.97
+2025,Oct,Srinagar,Pleasant,Shivratri,1,13301.09
+2025,Oct,Gulmarg,Snowy,New Year,1,22076.76
+2025,Oct,Pahalgam,Mild,New Year,1,15972.45
+2025,Oct,Sonmarg,Snowy,Independence Day,1,18127.37
+2025,Oct,Jammu,Chilly,Holi,1,15478.09
+2025,Sep,Srinagar,Snowy,Independence Day,1,17702.11
+2025,Sep,Gulmarg,Pleasant,New Year,1,19896.61
+2025,Sep,Pahalgam,Warm,Baisakhi,1,18098.04
+2025,Sep,Sonmarg,Pleasant,Baisakhi,1,18650.64
+2025,Sep,Jammu,Cold,Independence Day,1,14228.62
+2026,Apr,Srinagar,Mild,Shivratri,1,15590.79
+2026,Apr,Gulmarg,Pleasant,Navratri,1,15751.98
+2026,Apr,Pahalgam,Rainy,Holi,1,9184.95
+2026,Apr,Sonmarg,Hot,Shivratri,1,15555.22
+2026,Apr,Jammu,Cool,Shivratri,1,14370.14
+2026,Aug,Srinagar,Cool,Baisakhi,1,17592.71
+2026,Aug,Gulmarg,Chilly,Navratri,1,13877.86
+2026,Aug,Pahalgam,Mild,New Year,1,10413.81
+2026,Aug,Sonmarg,Pleasant,Holi,1,14612.14
+2026,Aug,Jammu,Rainy,Independence Day,1,9646.11
+2026,Dec,Srinagar,Hot,Navratri,1,14903.33
+2026,Dec,Gulmarg,Cold,Shivratri,1,18052.47
+2026,Dec,Pahalgam,Pleasant,Shivratri,1,12146.36
+2026,Dec,Sonmarg,Cool,Shivratri,1,15039.74
+2026,Dec,Jammu,Chilly,New Year,1,13751.16
+2026,Feb,Srinagar,Mild,New Year,1,16041.96
+2026,Feb,Gulmarg,Pleasant,Independence Day,1,17573.49
+2026,Feb,Pahalgam,Warm,Shivratri,1,14667.65
+2026,Feb,Sonmarg,Cold,Navratri,1,17253.52
+2026,Feb,Jammu,Snowy,Shivratri,1,14148.59
+2026,Jan,Srinagar,Warm,Shivratri,1,17498.21
+2026,Jan,Gulmarg,Chilly,New Year,1,17333.8
+2026,Jan,Pahalgam,Chilly,Independence Day,1,14601.5
+2026,Jan,Sonmarg,Cool,Shivratri,1,16540.54
+2026,Jan,Jammu,Chilly,Holi,1,16119.5
+2026,Jul,Srinagar,Warm,New Year,1,17800.5
+2026,Jul,Gulmarg,Cold,Shivratri,1,17150.46
+2026,Jul,Pahalgam,Cool,Navratri,1,15821.08
+2026,Jul,Sonmarg,Chilly,New Year,1,17451.04
+2026,Jul,Jammu,Warm,None,0,14503.79
+2026,Jun,Srinagar,Cold,New Year,1,14974.22
+2026,Jun,Gulmarg,Cold,Baisakhi,1,17746.33
+2026,Jun,Pahalgam,Cool,New Year,1,15670.4
+2026,Jun,Sonmarg,Hot,Independence Day,1,17136.84
+2026,Jun,Jammu,Snowy,Diwali,1,18200.85
+2026,Mar,Srinagar,Mild,Independence Day,1,15916.44
+2026,Mar,Gulmarg,Warm,Navratri,1,23531.27
+2026,Mar,Pahalgam,Cold,Christmas,1,20189.26
+2026,Mar,Sonmarg,Hot,New Year,1,15934.71
+2026,Mar,Jammu,Rainy,New Year,1,11998.39
+2026,May,Srinagar,Mild,Baisakhi,1,18291.78
+2026,May,Gulmarg,Warm,New Year,1,24196.6
+2026,May,Pahalgam,Snowy,Baisakhi,1,17885.35
+2026,May,Sonmarg,Cold,Baisakhi,1,19820.95
+2026,May,Jammu,Hot,New Year,1,12840.94
+2026,Nov,Srinagar,Pleasant,Baisakhi,1,18232.42
+2026,Nov,Gulmarg,Snowy,Navratri,1,21780.97
+2026,Nov,Pahalgam,Snowy,Navratri,1,14261.26
+2026,Nov,Sonmarg,Hot,Holi,1,18066.43
+2026,Nov,Jammu,Rainy,Eid,1,14962.66
+2026,Oct,Srinagar,Pleasant,Diwali,1,17837.05
+2026,Oct,Gulmarg,Rainy,Independence Day,1,18491.45
+2026,Oct,Pahalgam,Hot,Baisakhi,1,17742.6
+2026,Oct,Sonmarg,Snowy,Navratri,1,17737.53
+2026,Oct,Jammu,Cool,Christmas,1,19165.14
+2026,Sep,Srinagar,Warm,Eid,1,18700.63
+2026,Sep,Gulmarg,Cool,Eid,1,18123.68
+2026,Sep,Pahalgam,Snowy,Diwali,1,19174.32
+2026,Sep,Sonmarg,Chilly,None,0,16087.8
+2026,Sep,Jammu,Hot,None,0,13627.22
+2027,Apr,Srinagar,Rainy,Navratri,1,14210.82
+2027,Apr,Gulmarg,Pleasant,New Year,1,16159.42
+2027,Apr,Pahalgam,Cold,Christmas,1,15759.29
+2027,Apr,Sonmarg,Chilly,None,0,15783.21
+2027,Apr,Jammu,Warm,Diwali,1,17857.65
+2027,Aug,Srinagar,Rainy,Shivratri,1,14537.49
+2027,Aug,Gulmarg,Snowy,Holi,1,16287.23
+2027,Aug,Pahalgam,Snowy,New Year,1,9794.89
+2027,Aug,Sonmarg,Mild,None,0,13920.48
+2027,Aug,Jammu,Rainy,Diwali,1,15461.99
+2027,Dec,Srinagar,Chilly,Eid,1,16846.49
+2027,Dec,Gulmarg,Cool,New Year,1,16424.91
+2027,Dec,Pahalgam,Cold,Navratri,1,12199.32
+2027,Dec,Sonmarg,Hot,Diwali,1,18283.7
+2027,Dec,Jammu,Snowy,Independence Day,1,12450.16
+2027,Feb,Srinagar,Snowy,Shivratri,1,16859.52
+2027,Feb,Gulmarg,Pleasant,Eid,1,18927.01
+2027,Feb,Pahalgam,Hot,Navratri,1,14199.48
+2027,Feb,Sonmarg,Cold,Diwali,1,19326.3
+2027,Feb,Jammu,Snowy,Baisakhi,1,18192.4
+2027,Jan,Srinagar,Snowy,Baisakhi,1,18357.21
+2027,Jan,Gulmarg,Cold,Diwali,1,18321.45
+2027,Jan,Pahalgam,Cool,Eid,1,17073.03
+2027,Jan,Sonmarg,Cold,Independence Day,1,17392.77
+2027,Jan,Jammu,Hot,Independence Day,1,14304.28
+2027,Jul,Srinagar,Pleasant,Baisakhi,1,18674.46
+2027,Jul,Gulmarg,Cold,New Year,1,16064.2
+2027,Jul,Pahalgam,Snowy,Baisakhi,1,17975.43
+2027,Jul,Sonmarg,Hot,Independence Day,1,16749.96
+2027,Jul,Jammu,Snowy,Baisakhi,1,17628.75
+2027,Jun,Srinagar,Mild,Diwali,1,18184.58
+2027,Jun,Gulmarg,Pleasant,Baisakhi,1,18675.79
+2027,Jun,Pahalgam,Chilly,Navratri,1,15811.58
+2027,Jun,Sonmarg,Chilly,Eid,1,18752.27
+2027,Jun,Jammu,Rainy,Baisakhi,1,17164.18
+2027,Mar,Srinagar,Cold,Christmas,1,16222.9
+2027,Mar,Gulmarg,Rainy,New Year,1,19671.78
+2027,Mar,Pahalgam,Cool,Eid,1,18913.0
+2027,Mar,Sonmarg,Pleasant,Diwali,1,17946.21
+2027,Mar,Jammu,Cold,None,0,15586.63
+2027,May,Srinagar,Cool,Eid,1,14601.31
+2027,May,Gulmarg,Rainy,None,0,19514.43
+2027,May,Pahalgam,Hot,Holi,1,16996.11
+2027,May,Sonmarg,Cold,Diwali,1,20373.83
+2027,May,Jammu,Warm,Independence Day,1,13503.06
+2027,Nov,Srinagar,Hot,New Year,1,12212.95
+2027,Nov,Gulmarg,Cold,Baisakhi,1,18511.93
+2027,Nov,Pahalgam,Snowy,Shivratri,1,14740.81
+2027,Nov,Sonmarg,Hot,Navratri,1,16213.42
+2027,Nov,Jammu,Rainy,None,0,13327.07
+2027,Oct,Srinagar,Chilly,Shivratri,1,12323.75
+2027,Oct,Gulmarg,Cool,New Year,1,17462.59
+2027,Oct,Pahalgam,Chilly,Baisakhi,1,19558.47
+2027,Oct,Sonmarg,Mild,None,0,13541.51
+2027,Oct,Jammu,Snowy,Navratri,1,11732.71
+2027,Sep,Srinagar,Cool,New Year,1,11522.09
+2027,Sep,Gulmarg,Chilly,None,0,16533.61
+2027,Sep,Pahalgam,Snowy,Shivratri,1,14638.48
+2027,Sep,Sonmarg,Snowy,Diwali,1,17184.13
+2027,Sep,Jammu,Rainy,None,0,12893.42
+2028,Apr,Srinagar,Hot,Holi,1,16676.67
+2028,Apr,Gulmarg,Warm,Shivratri,1,19712.25
+2028,Apr,Pahalgam,Cool,None,0,13733.99
+2028,Apr,Sonmarg,Snowy,Shivratri,1,16187.58
+2028,Apr,Jammu,Mild,Independence Day,1,13782.46
+2028,Aug,Srinagar,Mild,Holi,1,16271.87
+2028,Aug,Gulmarg,Cold,Diwali,1,16895.2
+2028,Aug,Pahalgam,Rainy,Diwali,1,12650.61
+2028,Aug,Sonmarg,Mild,Shivratri,1,14464.89
+2028,Aug,Jammu,Warm,Navratri,1,12535.96
+2028,Dec,Srinagar,Cool,None,0,15055.49
+2028,Dec,Gulmarg,Hot,Christmas,1,17408.58
+2028,Dec,Pahalgam,Cool,Holi,1,13269.63
+2028,Dec,Sonmarg,Hot,Baisakhi,1,18390.55
+2028,Dec,Jammu,Pleasant,New Year,1,12391.59
+2028,Feb,Srinagar,Snowy,Christmas,1,18866.94
+2028,Feb,Gulmarg,Pleasant,Holi,1,17670.38
+2028,Feb,Pahalgam,Chilly,None,0,16008.98
+2028,Feb,Sonmarg,Pleasant,Independence Day,1,15133.51
+2028,Feb,Jammu,Warm,Navratri,1,13411.6
+2028,Jan,Srinagar,Hot,New Year,1,15518.16
+2028,Jan,Gulmarg,Hot,Navratri,1,16156.3
+2028,Jan,Pahalgam,Snowy,Christmas,1,18795.13
+2028,Jan,Sonmarg,Pleasant,None,0,14900.24
+2028,Jan,Jammu,Snowy,None,0,13325.17
+2028,Jul,Srinagar,Snowy,Shivratri,1,17056.07
+2028,Jul,Gulmarg,Mild,Christmas,1,17413.54
+2028,Jul,Pahalgam,Chilly,Diwali,1,19984.67
+2028,Jul,Sonmarg,Rainy,None,0,15500.05
+2028,Jul,Jammu,Rainy,None,0,13054.7
+2028,Jun,Srinagar,Warm,Holi,1,18374.85
+2028,Jun,Gulmarg,Snowy,New Year,1,23073.37
+2028,Jun,Pahalgam,Pleasant,New Year,1,14887.08
+2028,Jun,Sonmarg,Chilly,New Year,1,17551.61
+2028,Jun,Jammu,Mild,Eid,1,15811.84
+2028,Mar,Srinagar,Rainy,Eid,1,17891.05
+2028,Mar,Gulmarg,Cool,Independence Day,1,15141.98
+2028,Mar,Pahalgam,Snowy,Christmas,1,19116.04
+2028,Mar,Sonmarg,Warm,Diwali,1,17151.39
+2028,Mar,Jammu,Hot,Baisakhi,1,17937.18
+2028,May,Srinagar,Snowy,Eid,1,18076.25
+2028,May,Gulmarg,Snowy,Baisakhi,1,21845.63
+2028,May,Pahalgam,Rainy,None,0,15867.0
+2028,May,Sonmarg,Rainy,Diwali,1,17369.19
+2028,May,Jammu,Cold,Eid,1,18342.11
+2028,Nov,Srinagar,Pleasant,Shivratri,1,13694.66
+2028,Nov,Gulmarg,Chilly,Christmas,1,18177.5
+2028,Nov,Pahalgam,Cold,Shivratri,1,15470.95
+2028,Nov,Sonmarg,Pleasant,Baisakhi,1,18441.77
+2028,Nov,Jammu,Hot,None,0,14181.51
+2028,Oct,Srinagar,Cool,None,0,11556.42
+2028,Oct,Gulmarg,Hot,Independence Day,1,16075.01
+2028,Oct,Pahalgam,Cool,None,0,16928.4
+2028,Oct,Sonmarg,Rainy,Navratri,1,15872.43
+2028,Oct,Jammu,Warm,Christmas,1,17486.71
+2028,Sep,Srinagar,Cool,Baisakhi,1,15699.69
+2028,Sep,Gulmarg,Cool,New Year,1,17783.57
+2028,Sep,Pahalgam,Snowy,None,0,15773.62
+2028,Sep,Sonmarg,Pleasant,Shivratri,1,14555.98
+2028,Sep,Jammu,Rainy,Independence Day,1,11905.78
